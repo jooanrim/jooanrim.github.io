@@ -47,7 +47,7 @@ body {
 }
 
 p {
-  margin-bottom: 24px;
+  margin-bottom: 30px;
 	font-family: 'Rokkitt', serif;
 	font-weight: lighter;
 }
@@ -98,7 +98,7 @@ header {
 
 header h1 {
 	font-family: 'Rokkitt', serif;
-	font-size: 35px;
+	font-size: 34px;
   color: #001333;
   /*HINT - This is where you change webpage title color */
   text-align: center;
@@ -106,7 +106,7 @@ header h1 {
 
 header h2 {
   font-family: 'Karla', sans-serif;
-  font-size: 14px;
+  font-size: 15px;
   color: #001333;
   /*HINT - This is where you change quote color */
   text-align: center;
