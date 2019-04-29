@@ -20,6 +20,8 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 
 ol, ul {
   list-style: none;
+  letter-spacing: 1px;
+  line-height: 2px;
 }
 header, nav, article, aside, footer, hgroup, section
 {
@@ -170,7 +172,7 @@ header h2 {
   font: 20px/20px "Arial";
   margin-top: 10px;
   margin-bottom: 10px;
-  color: black;
+  color: #aff2a7;
 }
 
 /* Sets the formatting for the work experience portion */
@@ -185,9 +187,9 @@ header h2 {
 .work-experience li::before {
   content: "\273F"; /* Insert content that looks like bullets */
   padding-right: 8px;
-  color: black; /* Or a color you prefer */
-  margin-bottom: 8px;
   color: #255589; /* Or a color you prefer */
+  margin-bottom: 8px;
+
 }
 
 /* Sets the formatting for the links portion*/
@@ -221,6 +223,10 @@ header h2 {
   border-top: 3.5px dotted #ffffff;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 15px;
+<<<<<<< HEAD
   padding-top: 9px;
+=======
+  padding-top: 16px;
+>>>>>>> 209c3f519fd470561d64fa567eabe65cc68c905d
   clear: both;
 }
