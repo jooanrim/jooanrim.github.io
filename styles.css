@@ -20,8 +20,8 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 
 ol, ul {
   list-style: none;
-  letter-spacing: 4px;
-  line-height: 20px;
+  letter-spacing: 2px;
+  line-height: 5em;
 }
 header, nav, article, aside, footer, hgroup, section
 {
