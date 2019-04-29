@@ -193,9 +193,9 @@ header h2 {
 
 .work-experience li::before {
   content: "\273F"; /* Insert content that looks like bullets */
-  padding-left: 0;
+  padding-left: 20px;
   color: #255589; /* Or a color you prefer */
-  margin-bottom: 4px;
+  margin-bottom: 0;
 
 }
 
