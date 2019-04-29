@@ -155,7 +155,7 @@ header h2 {
   /* shadowing for pictures*/
   -moz-box-shadow: inset 1 1 10px rgba(50, 50, 50, 0.5);
   /* shadowing for pictures - MOZILLA*/
-  -webkit-box-shadow: 3px 3px 7px #777;
+  -webkit-box-shadow: 3px 3px 7px #52144b;
   /* shadowing for pictures - CHROME*/
   border-radius: 100%;
 }
