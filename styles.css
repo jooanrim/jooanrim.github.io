@@ -121,7 +121,7 @@ header h2 {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   color: #001333;
-  border-bottom: 4px dashed #ffffff;
+  border-bottom: 3.5px dotted #ffffff;
   /*HINT - This is where you change quote color */
   text-align: center;
 }
@@ -152,11 +152,11 @@ header h2 {
 #content img {
   margin-left: 80px;
   /* index pictures left x pixels*/
-  box-shadow: inset 1 -35px 35px -18px #d3adce;
+  box-shadow: inset 1 -35px 35px -18px #c9a7c4;
   /* shadowing for pictures*/
   -moz-box-shadow: inset 1 1 10px rgba(50, 50, 50, 0.5);
   /* shadowing for pictures - MOZILLA*/
-  -webkit-box-shadow: 3px 3px 7px #d3adce;
+  -webkit-box-shadow: 3px 3px 7px #c9a7c4;
   /* shadowing for pictures - CHROME*/
   border-radius: 100%;
 }
