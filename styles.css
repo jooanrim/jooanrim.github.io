@@ -80,11 +80,11 @@ a {
 }
 
 a:hover {
-  border-bottom: 1px dotted #940033;
+  border-bottom: 1px dotted black;
 }
 
 a:active {
-  border-bottom: 2px solid #940033
+  border-bottom: 2px solid #255589;
 }
 
 /*********************************************************************************/
