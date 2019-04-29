@@ -75,7 +75,7 @@ em {
 
 /* sets text color and size for all hyperlinks on page */
 a {
-  color: #2e65a0;
+  color: #255589;
   font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
 }
 
@@ -106,7 +106,7 @@ header h1 {
 
 header h2 {
   font-family: 'Karla', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   color: #001333;
   /*HINT - This is where you change quote color */
   text-align: center;
