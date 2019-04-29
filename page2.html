@@ -89,6 +89,42 @@ text-shadow: 0 0 5px #b784b0;
 		ga('create', 'UA-56234333-1', 'auto');
 		ga('send', 'pageview');
 	</script>
+
+	<style>
+.center {
+  text-align: center;
+}
+
+.pagination {
+  display: inline-block;
+}
+
+	.pagination a {
+		color: black;
+		float:left;
+		/* margin-left: 0.3em;
+		margin-bottom: 5px; */
+		padding: 5px 9px;
+		text-decoration: none;
+		transition: background-color .6s;
+	}
+
+	.pagination a.active {
+		background-color: #f9e0f6;
+		color: black;
+		border-radius: 5px;
+		/* margin-left: 25em;
+		margin-bottom: 5px; */
+	}
+
+	.pagination a:hover:not(.active) {background-color: #f9e0f6;
+		border-radius: 5px;
+		/* margin-left: 0.3em;
+		margin-bottom: 5px; */
+	}
+	</style>
+
+
 	<br>
 	<h1><b>Who? Joo!</b></h1>
 	<h2><i>"If a little dreaming is dangerous, the cure for it is not to dream
@@ -99,14 +135,13 @@ text-shadow: 0 0 5px #b784b0;
 <body>
 	<div class=clearfix>
 		<div id=content>
-
-			<h3>
-				<!--This link below currently links to the index file in Clint's folder on the webspace server.  You'll need to update it to point to your index page -->
-				<a href="index.html">Home</a>
-				||
-				<u>More Info</u>
+			<div class="pagination">
+				<h3>
+			<a href="index.html">Home</a>
+			<a class="active" href="#"<u>More Info</u></a>
 
 			</h3>
+			</div>
 			<br>
 
 			<h1>My Favorite Ted Talk</h1>
