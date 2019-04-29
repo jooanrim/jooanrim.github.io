@@ -182,16 +182,16 @@ header h2 {
 
 .work-experience ul {
   list-style: none; /* Remove HTML bullets */
-  padding-left: 8px;
-  margin: 0;
+  padding-left: 10px;
+  margin-left: 10px;
   line-height: 10px;
 }
 
 .work-experience li::before {
   content: "\273F"; /* Insert content that looks like bullets */
-  padding-left: 4px;
+  padding-left: 3px;
   color: #255589; /* Or a color you prefer */
-  margin-bottom: 8px;
+  margin-bottom: 4px;
 
 }
 
