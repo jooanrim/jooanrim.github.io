@@ -151,7 +151,7 @@ header h2 {
 #content img {
   margin-left: 80px;
   /* index pictures left x pixels*/
-  box-shadow: inset 1 -35px 35px -18px #005b79;
+  box-shadow: inset 1 -35px 35px -18px #52144b;
   /* shadowing for pictures*/
   -moz-box-shadow: inset 1 1 10px rgba(50, 50, 50, 0.5);
   /* shadowing for pictures - MOZILLA*/
