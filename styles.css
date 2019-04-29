@@ -27,14 +27,14 @@ ol, ul {
 header, nav, article, aside, footer, hgroup, section {
   display: block
 }
-<style>
+/* <style>
 /* customizable snowflake styling */
-.snowflake {
+/* .snowflake {
   color: #fff;
   font-size: 1em;
   font-family: Arial, sans-serif;
   text-shadow: 0 0 5px #000;
-}
+} */ */
 /***************************** Ignore everything ABOVE.  Not required ****************************/
 /******************************************************************************************/
 
@@ -53,21 +53,9 @@ body {
 }
 
 p {
-<<<<<<< HEAD
-<<<<<<< HEAD
-  margin-bottom: 18px;
-	font-family: 'Rokkitt', serif;
-	font-size:18px;
-=======
-  margin-bottom: 16px;
-	font-family: 'Rokkitt', serif;
-	font-size: 22px;
->>>>>>> parent of 31b685d... Revert "p"
-=======
   margin-bottom: 18px;
 	font-family: 'Rokkitt', serif;
 	font-size: 16px;
->>>>>>> parent of 58cf839... Revert "o"
 	font-weight: lighter;
 }
 
