@@ -46,7 +46,7 @@ body {
 }
 
 p {
-  margin-bottom: 30px;
+  margin-bottom: 40px;
 	font-family: 'Rokkitt', serif;
 	font-weight: lighter;
 }
@@ -194,7 +194,7 @@ header h2 {
 /*********************************************************************/
 .copyright {
   text-align: center;
-  color: black;
+  color: #001333;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 20px;
   clear: both;
