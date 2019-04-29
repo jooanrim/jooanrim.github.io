@@ -194,7 +194,7 @@ header h2 {
 /*********************************************************************/
 .copyright {
   text-align: center;
-  color: white;
+  color: black;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 20px;
   clear: both;
