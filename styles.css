@@ -76,11 +76,11 @@ em {
 /* sets text color and size for all hyperlinks on page */
 a {
   color: #255589;
-  font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
+  font: 14px/18px Corbel, Arial, Helvetica, sans-serif;
 }
 
 a:hover {
-  border-bottom: 1px dotted black;
+  border-bottom: 1.5px dotted black;
 }
 
 a:active {
