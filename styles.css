@@ -181,12 +181,13 @@ header h2 {
   content: "\273F"; /* Insert content that looks like bullets */
   padding-right: 8px;
   color: black; /* Or a color you prefer */
+  margin-bottom: 8px;
 }
 
 /* Sets the formatting for the links portion*/
 .links li {
   font-size: 18px;
-  line-height: 22px;
+  line-height: 20px;
   margin-bottom: 10px;
   text-align: left;
   border-bottom: 1px dotted #fafafa;
@@ -197,7 +198,7 @@ header h2 {
 
 /* Slides links text to the right when mouse hovers over link*/
 .links li:hover {
-  margin-left: 9px
+  margin-left: 10px
 }
 
 .links li a:hover {
