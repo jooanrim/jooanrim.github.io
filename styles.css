@@ -23,6 +23,7 @@ ol, ul {
   letter-spacing: 0.1px;
   line-height: 1.25;
   color: #022144;
+  margin-bottom: 0;
 
 font-family: 'Rokkitt', serif;
 font-weight: normal;
@@ -51,7 +52,6 @@ body {
 }
 
 p {
-  margin-bottom: 10px;
 	font-family: 'Rokkitt', serif;
 	font-size: 16px;
 	font-weight: lighter;
@@ -61,7 +61,7 @@ p {
 h1 {
   font-family: 'Lusitana', serif;
   font-size: 24px;
-  margin-bottom: 8px;
+  margin-bottom: 6px;
   margin-top: 3px;
   color: #053366;
   /*HINT - here we set the heading color of site*/
@@ -73,7 +73,7 @@ h2 {
   font-family: 'Rokkitt', serif;
   font-weight: normal;
   font-size: 16px;
-  margin-bottom: 6px;
+  margin-bottom: 4px;
   color: #053366;
 }
 
@@ -94,18 +94,12 @@ font-weight: normal;
 font-size: 16px;
 }
 
-a:hover {
-  border-bottom: 1.5px dotted black;
-/* ======= */
-	font-family: 'Rokkitt', serif;
-	font-weight: normal;
-}
-/*
+
 a:hover {
 	font-family: 'Rokkitt', serif;
 	font-weight: normal;
-  border-bottom: 1px dotted black; */
-/* >>>>>>> 1c47c8ab11dc05b2aa38c4dd97a2ab1feab16ac1 */
+  border-bottom: 1px dotted #053366;
+
 }
 
 a:active {
