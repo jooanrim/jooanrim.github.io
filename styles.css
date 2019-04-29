@@ -73,13 +73,13 @@ a:active { border-bottom: 2px solid #940033 }
 header { margin: 5px 5px 2px 2px}
 
 header h1 {
-	font: 35px "Courier New";
+	font: 35px "Lato";
 	color: #224f96;							/*HINT - This is where you change webpage title color */
     text-align: center;
 }
 
 header h2 {
-	font: 16px/20px "Courier New";
+	font: 16px/20px "Raleway";
 	color: #224f96;							/*HINT - This is where you change quote color */
 	text-align: center;
 }
