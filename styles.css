@@ -189,7 +189,7 @@ header h2 {
   list-style: none; /* Remove HTML bullets */
   /* padding-left: 20px;
   margin-left: 20px; */
-  line-height: 10px;
+  line-height: 12px;
 }
 
 .work-experience li::before {
