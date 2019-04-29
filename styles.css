@@ -74,13 +74,13 @@ header { margin: 5px 5px 2px 2px}
 
 header h1 {
 	font: 35px font-family: 'Rubik', sans-serif;
-	color: #224f96;							/*HINT - This is where you change webpage title color */
+	color: #black;							/*HINT - This is where you change webpage title color */
     text-align: center;
 }
 
 header h2 {
 	font: 16px/20px font-family: 'Karla', sans-serif;
-	color: #224f96;							/*HINT - This is where you change quote color */
+	color: #black;							/*HINT - This is where you change quote color */
 	text-align: center;
 }
 
