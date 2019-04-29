@@ -136,7 +136,8 @@ header h2 {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #255589;
+  padding: 4px;
+  color: #1f4875;
   /* color: #001333; */
   border-bottom: 3.5px dotted #ffffff;
   border-top: 3.5px dotted #ffffff;
@@ -233,10 +234,10 @@ header h2 {
 /*********************************************************************/
 .copyright {
   text-align: center;
-  color: #053366;
+  color: #1f4875;
   border-top: 3.5px dotted #ffffff;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 15px;
-  padding-top: 8px;
+  padding-top: 6px;
   clear: both;
 }
