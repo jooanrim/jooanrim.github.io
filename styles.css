@@ -179,9 +179,9 @@ header h2 {
 
 .work-experience ul {
   list-style: none; /* Remove HTML bullets */
-  padding-left: 1px;
+  padding-left: 3px;
   margin: 0;
-  line-height: 8px;
+  line-height: 10px;
 }
 
 .work-experience li::before {
@@ -223,6 +223,6 @@ header h2 {
   border-top: 3.5px dotted #ffffff;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 15px;
-  padding-top: 12px;
+  padding-top: 10px;
   clear: both;
 }
