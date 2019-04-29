@@ -47,7 +47,8 @@ body {
 }
 
 p {
-  margin-bottom: 18px
+  margin-bottom: 18px;
+	font-family: 'Rokkitt', serif;
 }
 
 h1 {
@@ -95,7 +96,8 @@ header {
 }
 
 header h1 {
-  font: 35px "Arial";
+	font-family: 'Merriweather Sans', sans-serif;
+	font-size: 35px;
   color: #001333;
   /*HINT - This is where you change webpage title color */
   text-align: center;
@@ -171,7 +173,7 @@ header h2 {
   line-height: 20px;
   margin-bottom: 5px;
   text-align: left;
-  border-bottom: 1px solid #fafafa;
+  border-bottom: 1px solid #2e65a0;
   -o-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
   -webkit-transition: all 0.5s ease-out;
