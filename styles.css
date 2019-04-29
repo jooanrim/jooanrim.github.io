@@ -46,8 +46,9 @@ body {
 }
 
 p {
-  margin-bottom: 40px;
+  margin-bottom: 18px;
 	font-family: 'Rokkitt', serif;
+	font-size:18px;
 	font-weight: lighter;
 }
 
@@ -131,9 +132,7 @@ header h2 {
   color: black;
   /*HINT - This is where you change quote color */
   text-align: center;
-	font-family: 'Karla', sans-serif;
-  font-size: 15px;
-  color: #001333;
+	font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
 }
 
 #content img {
