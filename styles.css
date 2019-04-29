@@ -20,7 +20,7 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 
 ol, ul {
   list-style: none;
-  letter-spacing: 2px;
+  letter-spacing: 0.2px;
   line-height: 5em;
 }
 header, nav, article, aside, footer, hgroup, section
@@ -223,10 +223,6 @@ header h2 {
   border-top: 3.5px dotted #ffffff;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 15px;
-<<<<<<< HEAD
-  padding-top: 9px;
-=======
-  padding-top: 16px;
->>>>>>> 209c3f519fd470561d64fa567eabe65cc68c905d
+  padding-top: 12px;
   clear: both;
 }
