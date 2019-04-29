@@ -76,7 +76,8 @@ em {
 /* sets text color and size for all hyperlinks on page */
 a {
   color: #255589;
-  font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
+	font-family: 'Rokkitt', serif;
+	font-weight: lighter;
 }
 
 a:hover {
