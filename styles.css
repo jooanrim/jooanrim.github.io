@@ -20,8 +20,8 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 
 ol, ul {
   list-style: none;
-  letter-spacing: 1px;
-  line-height: 2px;
+  letter-spacing: 4px;
+  line-height: 20px;
 }
 header, nav, article, aside, footer, hgroup, section
 {
@@ -172,7 +172,7 @@ header h2 {
   font: 20px/20px "Arial";
   margin-top: 10px;
   margin-bottom: 10px;
-  color: #aff2a7;
+  color: black;
 }
 
 /* Sets the formatting for the work experience portion */
