@@ -130,7 +130,7 @@ header h2 {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   font-weight: 500;
-  color: #001333;
+  color: #255589;
   /* color: #001333; */
   border-bottom: 3.5px dotted #ffffff;
   border-top: 3.5px dotted #ffffff;
@@ -203,10 +203,10 @@ header h2 {
 /* Sets the formatting for the links portion*/
 .links li {
   font-size: 18px;
-  line-height: 14px;
+  line-height: 15px;
   margin-bottom: 8px;
   text-align: left;
-  padding-left: 3px;
+  padding-left: 2px;
   border-bottom: 1px dotted #fafafa;
   -o-transition: all 0.5s ease-out;
   -moz-transition: all 0.5s ease-out;
