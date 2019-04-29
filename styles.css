@@ -21,20 +21,11 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 ol, ul {
   list-style: none;
 }
-
-
-
-header, nav, article, aside, footer, hgroup, section {
+header, nav, article, aside, footer, hgroup, section
+{
   display: block
 }
-/* <style>
-/* customizable snowflake styling */
-/* .snowflake {
-  color: #fff;
-  font-size: 1em;
-  font-family: Arial, sans-serif;
-  text-shadow: 0 0 5px #000;
-} */ */
+
 /***************************** Ignore everything ABOVE.  Not required ****************************/
 /******************************************************************************************/
 
