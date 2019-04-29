@@ -122,7 +122,7 @@ header h1 {
 	letter-spacing: 1.5px;
   margin-bottom: 16px;
   color: white;
-  text-shadow: -2px 0 #053366, 0 2px #053366, 2px 0 #053366, 0 -2px #053366;
+  text-shadow: -2px 1 #053366, 1 2px #053366, 2px 1 #053366, 1 -2px #053366;
   /*HINT - This is where you change webpage title color */
   text-align: center;
 }
