@@ -21,10 +21,8 @@ html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pr
 ol, ul {
   list-style: none;
 }
-
-
-
-header, nav, article, aside, footer, hgroup, section {
+header, nav, article, aside, footer, hgroup, section
+{
   display: block
 }
 
@@ -46,15 +44,16 @@ body {
 }
 
 p {
-  margin-bottom: 30px;
+  margin-bottom: 10px;
 	font-family: 'Rokkitt', serif;
+	font-size: 16px;
 	font-weight: lighter;
 }
 
 h1 {
-  font-family: 'Karla', sans-serif;
-  font-size: 22px;
-  margin-bottom: 5px;
+  font-family: 'Lusitana', serif;
+  font-size: 24px;
+  margin-bottom: 10px;
   color: #001333;
   /*HINT - here we set the heading color of site*/
   font-weight: bold;
@@ -62,7 +61,7 @@ h1 {
 
 h2 {
   font: 22px/22px Corbel, Arial, Helvetica, sans-serif;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   color: black;
 }
 
@@ -76,12 +75,13 @@ em {
 
 /* sets text color and size for all hyperlinks on page */
 a {
-  color: #2e65a0;
+  color: #255589;
   font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
 }
 
 a:hover {
   border-bottom: 1px solid #940033
+  border-style: dotted;
 }
 
 a:active {
@@ -96,9 +96,10 @@ header {
 }
 
 header h1 {
-	font-family: 'Rokkitt', serif;
+	font-family: 'Lusitana', serif;
 	font-size: 34px;
-	letter-spacing: 3px;
+  font-weight: bold;
+	letter-spacing: 2px;
   color: #001333;
   /*HINT - This is where you change webpage title color */
   text-align: center;
@@ -106,11 +107,12 @@ header h1 {
 
 header h2 {
   font-family: 'Karla', sans-serif;
-  font-size: 15px;
+  font-size: 16px;
   color: #001333;
   /*HINT - This is where you change quote color */
   text-align: center;
 }
+
 
 /*********************************************************************************/
 /*********************************** BODY ****************************************/
@@ -131,7 +133,7 @@ header h2 {
   color: black;
   /*HINT - This is where you change quote color */
   text-align: center;
-  font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
+	font: 14px/16px Corbel, Arial, Helvetica, sans-serif;
 }
 
 #content img {
@@ -172,7 +174,7 @@ header h2 {
 .links li {
   font-size: 16px;
   line-height: 20px;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
   text-align: left;
   border-bottom: 1px solid #fafafa;
   -o-transition: all 0.5s ease-out;
@@ -182,7 +184,7 @@ header h2 {
 
 /* Slides links text to the right when mouse hovers over link*/
 .links li:hover {
-  margin-left: 8px
+  margin-left: 9px
 }
 
 .links li a:hover {
@@ -194,8 +196,8 @@ header h2 {
 /*********************************************************************/
 .copyright {
   text-align: center;
-  color: black;
+  color: #001333;
   /*HINT - This is where you change copyright text color */
-  margin: 10px 0 20px;
+  margin: 10px 0 15px;
   clear: both;
 }
