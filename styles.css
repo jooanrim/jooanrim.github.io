@@ -120,7 +120,7 @@ header h1 {
 	font-size: 34px;
   font-weight: bold;
 	letter-spacing: 1.5px;
-  margin-bottom: 18px;
+  margin-bottom: 16px;
   color: #001333;
   /*HINT - This is where you change webpage title color */
   text-align: center;
@@ -129,7 +129,7 @@ header h1 {
 header h2 {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
-  font-weight: 501;
+  font-weight: 500.5;
   color: #255589;
   /* color: #001333; */
   border-bottom: 3.5px dotted #ffffff;
