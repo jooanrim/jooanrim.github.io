@@ -22,7 +22,7 @@ ol, ul {
   list-style: none;
   letter-spacing: 0.1px;
   line-height: 1.25;
-  color: #053366;
+  color: #022144;
 
 font-family: 'Rokkitt', serif;
 font-weight: normal;
@@ -55,6 +55,7 @@ p {
 	font-family: 'Rokkitt', serif;
 	font-size: 16px;
 	font-weight: lighter;
+  color: #022144;
 }
 
 h1 {
