@@ -83,6 +83,27 @@
       ga('send', 'pageview');
 
     </script>
+
+    <style>
+    .pagination {
+      display: inline-block;
+    }
+
+    .pagination a {
+      color: black;
+      float: left;
+      padding: 8px 16px;
+      text-decoration: none;
+    }
+
+    .pagination a.active {
+      background-color: #4CAF50;
+      color: white;
+    }
+
+    .pagination a:hover:not(.active) {background-color: #ddd;}
+    </style>
+
   </head>
   <header>
     <!-- if you like, you can add a favicon in code below.  This is just for fun so google favicon to learn what it is-->
@@ -96,12 +117,16 @@
   <body>
     <div class=clearfix>
       <div id=content>
-        <h3>
-          <u>Home</u>
-          ||
-          <a href="page2.html">More Info</a>
+        <div class="pagination">
+          <h3>
+  <a href="#">&laquo;</a>
+  <a class="active" href="#"<u>Home</u>||</a>
+<a href="page2.html">More Info</a>
+  <a href="#">&raquo;</a>
+
           <!--This link above currently links to the page2 file in Clint's folder on the webspace server.  You'll need to update it to point to your page2 file on webspace -->
         </h3>
+        </div>
         <br>						<!--HINT - This is the code to add a blank line-->
         <h1><b>Who am I?</b></h1>
         <p>My full name is Joo An Rim Kim but you can just call me Joo. I have
