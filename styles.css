@@ -121,7 +121,7 @@ header h2 {
   font-family: 'Karla', sans-serif;
   font-size: 16px;
   color: #001333;
-  border-bottom: 1px dotted #ffffff;
+  border-bottom: 4px dashed #ffffff;
   /*HINT - This is where you change quote color */
   text-align: center;
 }
