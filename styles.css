@@ -211,6 +211,7 @@ header h2 {
   text-align: center;
   color: #001333;
   border-top: 3.5px dotted #ffffff;
+  margin-top: 8px;
   /*HINT - This is where you change copyright text color */
   margin: 10px 0 15px;
   clear: both;
