@@ -46,16 +46,15 @@ body {
 }
 
 p {
-  margin-bottom: 16px;
+  margin-bottom: 40px;
 	font-family: 'Rokkitt', serif;
-	font-size: 22px;
 	font-weight: lighter;
 }
 
 h1 {
   font-family: 'Karla', sans-serif;
-  font-size: 24px;
-  margin-bottom: 8px;
+  font-size: 22px;
+  margin-bottom: 5px;
   color: #001333;
   /*HINT - here we set the heading color of site*/
   font-weight: bold;
