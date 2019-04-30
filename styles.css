@@ -24,19 +24,17 @@ ol, ul {
   line-height: 1.25;
   color: #022144;
   margin-bottom: 0;
-
-font-family: 'Rokkitt', serif;
-font-weight: normal;
-font-size: 16px;
+  font-family: 'Rokkitt', serif;
+  font-weight: normal;
+  font-size: 16px;
 }
-header, nav, article, aside, footer, hgroup, section
-{
+
+header, nav, article, aside, footer, hgroup, section {
   display: block
 }
 
 /***************************** Ignore everything ABOVE.  Not required ****************************/
 /******************************************************************************************/
-
 html {
   background-color: #f7def4;
 }
@@ -52,9 +50,9 @@ body {
 }
 
 p {
-	font-family: 'Rokkitt', serif;
-	font-size: 16px;
-	font-weight: lighter;
+  font-family: 'Rokkitt', serif;
+  font-size: 16px;
+  font-weight: lighter;
   color: #022144;
 }
 
@@ -88,23 +86,21 @@ em {
 /* sets text color and size for all hyperlinks on page */
 a {
   color: #255589;
-
-font-family: 'Rokkitt', serif;
-font-weight: normal;
-font-size: 16px;
+  font-family: 'Rokkitt', serif;
+  font-weight: normal;
+  font-size: 16px;
 }
 
-
 a:hover {
-	font-family: 'Rokkitt', serif;
-	font-weight: normal;
+  font-family: 'Rokkitt', serif;
+  font-weight: normal;
   border-bottom: 1px dotted #053366;
-
+  ı
 }
 
 a:active {
-	font-family: 'Rokkitt', serif;
-	font-weight: normal;
+  font-family: 'Rokkitt', serif;
+  font-weight: normal;
   border-bottom: 2px solid #255589;
 }
 
@@ -116,10 +112,10 @@ header {
 }
 
 header h1 {
-	font-family: 'Lusitana', serif;
-	font-size: 34px;
+  font-family: 'Lusitana', serif;
+  font-size: 34px;
   font-weight: bolder;
-	letter-spacing: 1.5px;
+  letter-spacing: 1.5px;
   margin-bottom: 16px;
   color: white;
   text-shadow: 1px 2px 3px #1f4875;
@@ -139,7 +135,6 @@ header h2 {
   /*HINT - This is where you change quote color */
   text-align: center;
 }
-
 
 /*********************************************************************************/
 /*********************************** BODY ****************************************/
@@ -161,8 +156,8 @@ header h2 {
   /*HINT - This is where you change quote color */
   text-align: center;
   font-family: 'Rokkitt', serif;
-	font-weight: normal;
-	font-size: 16px;
+  font-weight: normal;
+  font-size: 16px;
 }
 
 #content img {
@@ -186,20 +181,21 @@ header h2 {
 }
 
 /* Sets the formatting for the work experience portion */
-
 .work-experience ul {
-  list-style: none; /* Remove HTML bullets */
+  list-style: none;
+  /* Remove HTML bullets */
   /* padding-left: 20px;
   margin-left: 20px; */
   line-height: 13px;
 }
 
 .work-experience li::before {
-  content: "\273F"; /* Insert content that looks like bullets */
+  content: "\273F";
+  /* Insert content that looks like bullets */
   padding-left: 4px;
-  color: #053366; /* Or a color you prefer */
+  color: #053366;
+  /* Or a color you prefer */
   margin-right: 5px;
-
 }
 
 /* Sets the formatting for the links portion*/
