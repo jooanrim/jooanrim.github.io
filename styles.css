@@ -146,7 +146,7 @@ header h2 {
 #content {
   background: white;
   /*background color in body portion*/
-  padding: 20px;
+  padding: 30px;
   border-radius: 15px 15px 15px 15px;
   /*rounded edges*/
   -moz-border-radius: 15px 15px 15px 15px;
